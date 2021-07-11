@@ -22,4 +22,4 @@ java:
 
 ## 版本
 
-`[3-openjdk-16,3,latest,3-openjdk,openjdk](openjdk-16/Dockerfile)`
+[`3-openjdk-16,3,latest,3-openjdk,openjdk`](openjdk-16/Dockerfile)
